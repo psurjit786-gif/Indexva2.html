@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+h3 {
+    color: red;
+    background-color: aqua;
+    text-align: center;
+}
+
+table {
+    background-color: brown;
+    border: 5px solid black;
+    padding: 20px;
+    width: 600px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+}
